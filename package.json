@@ -1,0 +1,12 @@
+{
+  "name": "dz-respect-bot",
+  "version": "1.0.0",
+  "description": "DZ RESPECT ROLEPLAY Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3"
+  }
+}
